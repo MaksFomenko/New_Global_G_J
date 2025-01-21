@@ -1011,7 +1011,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: efac876d03a51854f89d2acae859837c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
+  speed: 3
   xH: 0
   yV: 0
   deltMove: {x: 0, y: 0, z: 0}
