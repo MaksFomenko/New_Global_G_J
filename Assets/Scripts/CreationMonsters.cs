@@ -13,6 +13,10 @@ public class CreationMonsters : MonoBehaviour
     public float spawnInterval = 60f;
     private float timer = 0f;
     public List<GameObject> suitableSpawnPoints = new List<GameObject>(); 
+    void Start()
+    {
+        player = GameObject.FindWithTag("Player");
+    }
 
     void FixedUpdate()
     {
