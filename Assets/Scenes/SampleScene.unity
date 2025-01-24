@@ -563,7 +563,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 182446351}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -766,63 +766,6 @@ Mesh:
     offset: 0
     size: 0
     path: 
---- !u!1001 &335892413
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 8179972723828573133, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_Name
-      value: Mutant Walking (1) Variant (2)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 8.984363
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -7.6877284
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.99598384
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.05680319
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.050282545
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.047552533
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
 --- !u!1 &641591192
 GameObject:
   m_ObjectHideFlags: 0
@@ -1529,63 +1472,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &701651106
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 8179972723828573133, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_Name
-      value: Mutant Walking (1) Variant (3)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 4.5866847
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.0000009536743
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 6.2377615
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.99598384
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.05680319
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.050282545
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.047552533
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -2032,63 +1918,6 @@ Mesh:
     offset: 0
     size: 0
     path: 
---- !u!1001 &1368589144
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 8179972723828573133, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_Name
-      value: Mutant Walking (1) Variant (4)
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 2.8265388
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.00000047683716
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -13.358967
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.99598384
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.05680319
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.050282545
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0.047552533
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
 --- !u!1 &1381976298
 GameObject:
   m_ObjectHideFlags: 0
@@ -2328,7 +2157,7 @@ MonoBehaviour:
   enemyPrefab: {fileID: 8179972723828573133, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
   minDistance: 6
   maxDistance: 10
-  spawnInterval: 3
+  spawnInterval: 5
   suitableSpawnPoints: []
 --- !u!4 &1513634508
 Transform:
@@ -2354,6 +2183,55 @@ Transform:
   - {fileID: 179051542}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1664144774
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1664144775}
+  - component: {fileID: 1664144776}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1664144775
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1664144774}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2018183827}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1664144776
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1664144774}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2401d406af21e2e40a6de02afbe0861d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 2018183823}
+  bulletPrefab: {fileID: 8806620468602669370, guid: 2637def02ac7bd143ac173516ffd97e3, type: 3}
+  fireRate: 3
+  range: 10
+  speed: 10
 --- !u!1 &1679693694
 GameObject:
   m_ObjectHideFlags: 0
@@ -2424,9 +2302,25 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -3770977444009487806, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
+      propertyPath: m_Height
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: -3770977444009487806, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
+      propertyPath: m_Radius
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -3770977444009487806, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
+      propertyPath: m_Center.y
+      value: 1.34
+      objectReference: {fileID: 0}
     - target: {fileID: 8179972723828573133, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
       propertyPath: m_Name
       value: Mutant Walking (1) Variant (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8179972723828573133, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2515,6 +2409,10 @@ PrefabInstance:
     - target: {fileID: 8179972723828573133, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
       propertyPath: m_Name
       value: Mutant Walking (1) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8179972723828573133, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2666,7 +2564,8 @@ Transform:
   m_LocalPosition: {x: 6, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1664144775}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2018183828
@@ -2763,6 +2662,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mutant Walking (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8179972723828573133, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 8849231829805275511, guid: c4870a92e59df3c4da76acddba3979e6, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6
@@ -2823,6 +2726,3 @@ SceneRoots:
   - {fileID: 1453929806247873287}
   - {fileID: 1959571130}
   - {fileID: 1839385182}
-  - {fileID: 335892413}
-  - {fileID: 701651106}
-  - {fileID: 1368589144}
